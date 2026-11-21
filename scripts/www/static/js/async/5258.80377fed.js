@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkchat_demo=self.rspackChunkchat_demo||[]).push([[5258],{9729(e,c,s){s.d(c,{createPacketServices:()=>a.$});var a=s(5862);s(4248)}}]);
